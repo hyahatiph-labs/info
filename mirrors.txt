@@ -1,13 +1,14 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-# Hyhatiph Labs Mirrors
+# Hyahatiph Labs Mirrors
 
 # Clearnet
 # git archive
 https://hiahatf.org
 # Waas
 https://hiahatf.org/donate
+
 # Onion
 # gitweb
 http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
@@ -17,10 +18,12 @@ http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion/
 http://d53hvlimdclu4hul3blw4e6uerj5zro4bha75svea2n7yituowdhr2id.onion/donate
 # irc (port 6697)
 http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
+# verification links (/pgp.txt, /mirrors.txt, /canary.txt)
+http://hlvvffnzuhjfh4ahojdhcofu3wa5saffyq3hgqs6ztlffl6w2qipawyd.onion
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS+/URPn/uViITspQdOyTUzBwc3NwUCY3JepAAKCRBOyTUzBwc3
-N+KTAQD8WTTxJle8Hpp16u91nWi/sfq6YYCckvZfuAd9x1DaQwEAp+lMgi/whuEQ
-jW8zfVk0dD70eCLtrLEp7DfLQlE1vAU=
-=aYUV
+iHUEARYKAB0WIQS+/URPn/uViITspQdOyTUzBwc3NwUCY3J8SwAKCRBOyTUzBwc3
+N6DQAQD1pzC/T1YDyYD/Rf5OH7UyANJ8FXE41TQnGggv7ZKFEwD+I/96Mk6268sy
+5CEc8d63IZ26ZCKoS3GfQ/T7IJLmkwI=
+=XIVr
 -----END PGP SIGNATURE-----
