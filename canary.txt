@@ -1,0 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+I am the admin of hiahatf.org.
+I am in control of my PGP key.
+I will update this canary within 14 days.
+Today is 2022-11-14.
+
+Latest monero block hash (2755714):
+c7e375a1b2471877aa9471c63be5146a47afe9bff56be4a07da8bf97e91aa154
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS+/URPn/uViITspQdOyTUzBwc3NwUCY3J4lQAKCRBOyTUzBwc3
+N25OAQCNWDt1XFo0NnLZYoUxzjW+J6eenKMissFQdVs5qDHaOgEA+ZvFnlDWiDOm
+OZ2Z47OaKkFfnG6MtWcdIxqBzx6dEgs=
+=3W+f
+-----END PGP SIGNATURE-----
