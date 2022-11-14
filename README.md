@@ -1,8 +1,9 @@
 # Information
 
-Hyahatiph Labs repos will be migrating to hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
+Hyahatiph Labs repos will be migrating to http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
 
-Send patches or requests to rimuru@hiahatf.org
+Send patches or requests to irc on port 6697 `#issues`
+
 ```bash
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
