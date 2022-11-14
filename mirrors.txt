@@ -6,24 +6,24 @@ Hash: SHA512
 # Clearnet
 # git archive
 https://hiahatf.org
-# Waas
+# WaaS
 https://hiahatf.org/donate
 
 # Onion
 # gitweb
 http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
 # git clone (port 9418)
-http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion/
+git://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion/
 # WaaS
 http://d53hvlimdclu4hul3blw4e6uerj5zro4bha75svea2n7yituowdhr2id.onion/donate
 # irc (port 6697)
-http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
+hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
 # verification links (/pgp.txt, /mirrors.txt, /canary.txt)
 http://hlvvffnzuhjfh4ahojdhcofu3wa5saffyq3hgqs6ztlffl6w2qipawyd.onion
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQS+/URPn/uViITspQdOyTUzBwc3NwUCY3J8SwAKCRBOyTUzBwc3
-N6DQAQD1pzC/T1YDyYD/Rf5OH7UyANJ8FXE41TQnGggv7ZKFEwD+I/96Mk6268sy
-5CEc8d63IZ26ZCKoS3GfQ/T7IJLmkwI=
-=XIVr
+iHUEARYKAB0WIQS+/URPn/uViITspQdOyTUzBwc3NwUCY3KFPgAKCRBOyTUzBwc3
+N4FCAP0dJzguO+DO3Y7vHIt6gZMRM4eokHSeETzG9lT4F2giTAEAoJquSPcmfQ71
+xz4H6UX4wVSTnX1yrVbXYRL9DqEN/AI=
+=NCfQ
 -----END PGP SIGNATURE-----
