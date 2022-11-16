@@ -13,8 +13,3 @@ Reference:
 
 * [dark.fail](http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion)
 * [Monero RPC Docs](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/resources/developer-guides/daemon-rpc.html)
-
-___
-Donation ([OpenAlias](https://openalias.org/)): donate.hiahatf.org
-
-WaaS ([Wishlist-as-a-Service](https://github.com/plowsof/flipstarter-waas-wip)) : https://hiahatf.org/donate
