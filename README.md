@@ -12,8 +12,8 @@ Canary generation script at [xmr-canary.sh](./xmr-canary.sh). Fetches latest has
 
 Reference:
 
-* [dark.fail](https://dark.fail/pgp)
-* [Monero RPC Docs](https://www.getmonero.org/resources/developer-guides/daemon-rpc.html#get_info)
+* [dark.fail](https://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion)
+* [Monero RPC Docs](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/resources/developer-guides/daemon-rpc.html)
 
 ___
 Donation ([OpenAlias](https://openalias.org/)): donate.hiahatf.org
