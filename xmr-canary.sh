@@ -20,7 +20,7 @@ echo Latest hash: $HASH
 echo "I am the admin of $1." >> xmr-canary.txt
 echo "I am in control of my PGP key." >> xmr-canary.txt
 echo "I will update this canary within $2 days." >> xmr-canary.txt
-echo "Today is $(echo $(date))." >> xmr-canary.txt
+echo "Today is $(echo $(date -u))." >> xmr-canary.txt
 echo "" >> xmr-canary.txt
 echo "Latest monero block hash ($HEIGHT):" >> xmr-canary.txt
 echo $(echo $HASH | cut -d "\"" -f 2) >> xmr-canary.txt
