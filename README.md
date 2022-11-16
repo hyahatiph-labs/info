@@ -6,7 +6,6 @@ Send patches or requests to irc on port 6697 `#issues`
 
 * [pgp key](./pgp.txt)
 * [mirrors, links, etc](./mirrors.txt)
-* [canary](./canary.txt)
 
 Canary generation script at [xmr-canary.sh](./xmr-canary.sh). Fetches latest hash of Monero blockchain and creates a canary file IAW with dark.fail standards. 
 
