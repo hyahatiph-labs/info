@@ -1,6 +1,6 @@
 # Information
 
-Hyahatiph Labs have migrated http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
+Hyahatiph Labs repos have migrated to http://hl42cqzt4yftefrvflcgktdgmnevgzapphvubge3p6q6wrcjkgtipmqd.onion
 
 Send patches or requests to irc on port 6697 `#issues`
 
