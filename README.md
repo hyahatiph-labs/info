@@ -12,7 +12,7 @@ Canary generation script at [xmr-canary.sh](./xmr-canary.sh). Fetches latest has
 
 Reference:
 
-* [dark.fail](https://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion)
+* [dark.fail](http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion)
 * [Monero RPC Docs](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion/resources/developer-guides/daemon-rpc.html)
 
 ___
