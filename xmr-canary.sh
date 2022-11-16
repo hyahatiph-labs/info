@@ -9,7 +9,7 @@
 echo > xmr-canary.txt
 # Fetch the latest tip n-1
 echo Fetching latest Monero block height...
-curl http://127.0.0.1:18081/json_rpc -d '{"jsonrpc":"2.0","id":"0","method":"get_info"}' -H 'Content-Type: application/json' > xmr-height.txt
+curl http://localhost:18081/json_rpc -d '{"jsonrpc":"2.0","id":"0","method":"get_info"}' -H 'Content-Type: application/json' > xmr-height.txt
 HEIGHT=$(echo "$(cat xmr-height.txt | jq .result.height) - 1" | bc)
 # Fetch the hash of that height 
 echo Fetching hash for $HEIGHT
